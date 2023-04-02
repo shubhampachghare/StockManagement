@@ -1,0 +1,15 @@
+C:\RFP-260\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\RFP-260\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\RFP-260\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\RFP-260\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\RFP-260\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\RFP-260\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
